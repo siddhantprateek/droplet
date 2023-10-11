@@ -11,7 +11,7 @@ This system allows users to retrieve specific Maven Java dependencies through a 
     - [ ] Develop a Python script that communicates with the Express.js API to request Maven dependencies.
     - [ ] Use Python's requests library to make HTTP requests to the API and handle responses.
 - [ ] Maven Dependency Resolution (Java):
-    - [ ]Write a Java program that handles the resolution of Maven dependencies using Maven's dependency resolution APIs or libraries like Aether.
+    - [ ] Write a Java program that handles the resolution of Maven dependencies using Maven's dependency resolution APIs or libraries like Aether.
     - [ ] The Java program should take Maven coordinates (Group ID, Artifact ID, and Version) as input and download the corresponding JAR file from a Maven repository (e.g., Maven Central).
 - [ ] Python-Java Integration:
     - [ ] Set up a communication channel between your Python script and the Java program.
@@ -34,4 +34,4 @@ This system allows users to retrieve specific Maven Java dependencies through a 
 
 ## Author
 
-- [Siddhant Prateek Mahanayak]()
+- [Siddhant Prateek Mahanayak](https://github.com/siddhantprateek)
